@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "rocketmod",
+	"version": "${version}",
+	"name": "rocketmod",
+	"description": "Automatically uses rockets",
+	"authors": [
+		"violet"
+	],
+	"contact": {
+		"homepage": "https://outofopioids.github.io/rocketmod/",
+		"sources": "https://github.com/outofopioids/rocketmod",
+		"repo": "https://github.com/outofopioids/rocketmod"
+	},
+	"license": "MIT",
+	"icon": "assets/rocketmod/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"me.violet.rocketmod.Rocketmod"
+		],
+		"main": [
+			"me.violet.rocketmod.Rocketmod"
+		]
+	},
+	"mixins": [
+		"rocketmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

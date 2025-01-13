@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "me.violet.rocketmod.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+	],
+	"client": [
+		"GameMenuScreenMixin",
+		"MinecraftClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
