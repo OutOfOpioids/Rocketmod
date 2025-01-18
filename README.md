@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"><span style="color: #e03e2d;">Requires Fabric API</span></h1> <h3 style="text-align: center;"><span style="color: #000000;"><strong>DESCRIPTION</strong></span></h3><p style="text-align: center;"><span style="color: #000000;">This mod will automatically use rockets on your hotbar when you're flying with an elytra.</span></p> undefined<h3 style="text-align: center;"><span style="color: #000000;"><strong>CONFIG</strong></span></h3>
+<h1 style="text-align: center;"><span style="color: #e03e2d;">Requires Fabric API</span></h1> <h3 style="text-align: center;"><span style="color: #000000;"><strong>DESCRIPTION</strong></span></h3><p style="text-align: center;"><span style="color: #000000;">This mod will automatically use rockets on your hotbar when you're flying with an elytra.</span></p> <h3 style="text-align: center;"><span style="color: #000000;"><strong>CONFIG</strong></span></h3>
 
 *   <span style="color: #000000;">Keybind(Minecraft Options -&gt; Controls -&gt;Key binds)</span>
 *   <span style="color: #000000;">Delay(Game Menu -&gt; Rocketmod)</span>
